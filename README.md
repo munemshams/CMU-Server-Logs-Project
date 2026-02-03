@@ -6,11 +6,15 @@ The entire project was performed in **R Studio**, including:
 - Transformation and reshaping
 - Exploratory data analysis (EDA)
 - Visualization
-- Reporting for a non-technical audience
+- A presentation video for a non-technical audience
 
 # Data Source
 The original dataset is hosted externally in this link below:
 https://www.kaggle.com/datasets/munemshariarshams/vdi-server-logs-cmu
+
+# Video Presentation
+The video presentation is hosted in this link below:
+https://cmich.webex.com/cmich/ldr.php?RCID=24104455395fd20fd40ece266af89d45
 
 # Libraries used in R:
 tidytext,
